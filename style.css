@@ -40,7 +40,7 @@ a{
 
 }
 a:hover{
-    color: aliceblue;
+    color: rgb(55, 64, 73);
 }
 
 p{
@@ -50,8 +50,8 @@ p{
 main{
     background-color: rgba(0, 0, 0, 0.642);
     padding-top: 200px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     
     
 
