@@ -49,7 +49,7 @@ p{
     font-size: 1.5em;
 }
 main{
-    background-color: rgba(0, 0, 0, 0.642);
+    background-color: rgba(0, 0, 0, 0.963);
     padding-top: 200px;
     margin-left: 50px;
     margin-right: 50px;
@@ -81,4 +81,17 @@ h3{
     border-radius: 90px;
     margin-bottom: 150px;
     
+}
+footer{
+    
+}
+h4{
+    background-color: rgba(0, 0, 0, 0.963);
+    width: 100VW;
+    height: 10VH;
+    color: aliceblue;
+    text-align: center;
+    justify-items: center;
+    font-size: 2.5em;
+
 }
