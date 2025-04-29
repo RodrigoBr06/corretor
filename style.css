@@ -20,7 +20,7 @@ body{
     text-align: center;
     background-color:black;
     font-family: var(--fonte1);
-    font-size: 2em;
+    font-size: 1.5em;
  
 }
 header{
@@ -124,6 +124,7 @@ h4{
     color: aliceblue;
     text-align: center;
     justify-items: center;
+    font-size: 2em;
     
     
 
