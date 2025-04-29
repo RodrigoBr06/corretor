@@ -56,7 +56,7 @@ a:hover{
 }
 
 p{
-    margin-left: 50px;
+    
     font-size: 1.5em;
 }
 main{
@@ -81,9 +81,13 @@ main{
     height: 25vh;
     border-radius: 10px;
 
+
     text-align: center;
 
     
+}
+.nv{
+    margin-left: 50px;
 }
 div{
     margin-bottom: 100px;
