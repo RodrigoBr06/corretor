@@ -5,8 +5,8 @@
     --fonten2:Arial, Helvetica, sans-serif;
 }
 *{
-    margin:0 ;
-    padding: 0;
+    margin:0px;
+    padding: 0px;
   
 }
 
@@ -20,6 +20,8 @@ body{
 header{
     background-image: linear-gradient(45deg,rgb(226, 191, 31) ,rgb(131, 103, 10));
     height: 150px;
+   
+
 
 
     
@@ -69,13 +71,14 @@ footer{
     border-radius: 10px;
     background-image: linear-gradient(45deg,rgb(241, 203, 36) ,rgb(70, 55, 5));
     margin-top: 200px;
+    height: 100px;
+  
     
     
 }
 h4{
    
-    width: 100VW;
-    height: 10VH;
+  
     color: aliceblue;
     text-align: center;
     justify-items: center;
